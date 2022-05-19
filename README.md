@@ -22,8 +22,12 @@
  <h3 align="center">🎮 Problem solving</h3>
 
 <p align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=NmGDKL">&nbsp
+  <img src="[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={NmGDKL})](https://solved.ac/{NmGDKL})">&nbsp
 </p>
+
+
+
 
 
 

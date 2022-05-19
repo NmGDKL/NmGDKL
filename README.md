@@ -23,7 +23,7 @@
 
 <p align="center">
   <img src="[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={NmGDKL})](https://solved.ac/{NmGDKL})">&nbsp
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={NmGDKL})]">&nbsp
 </p>
 
 

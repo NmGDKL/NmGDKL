@@ -48,7 +48,7 @@
   
   <code> <img height="38" src="https://www.vectorlogo.zone/logos/python/python-official.svg"> </code>
   
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"> </code>
   <code> <img height="65" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"> </code>
   
   <code> <img height="50" src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo-500x313.png"> </code>

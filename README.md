@@ -6,6 +6,9 @@
 <h3 align="center">🔭 I’m currently working on Full Stack Development || HTML/CSS | Javascript | ReactJS | Python | SQL | Django ||</h3>
 
 <hr>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NmGDKL&label=Profile%20views&color=0e75b6&style=flat" alt="NmGDKL" /> </p>
+
 <p>
 
 <a align="right" href="https://github.com/dataonatangent">

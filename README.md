@@ -46,7 +46,7 @@
     
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"> </code>
   
-  <code> <img height="38" src="https://www.vectorlogo.zone/logos/python/python-official.svg"> </code>
+  <code> <img height="25" src="https://www.vectorlogo.zone/logos/python/python-official.svg"> </code>
   
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
   

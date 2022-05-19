@@ -29,7 +29,7 @@
 
 
 <a href="#">
-    <img src="https://github.com/NmGDKL/NmGDKL/blob/master/assets/days.gif" title="day++" width="245px" height="88" align="right" alt="Routine">
+    <img src="https://github.com/NmGDKL/NmGDKL/main/days.gif" title="day++" width="245px" height="88" align="right" alt="Routine">
 </a>
 
 

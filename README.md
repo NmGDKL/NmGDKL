@@ -12,7 +12,7 @@
 
 
 <hr>
-<h1 align="center">Hi , I am Musa Ekmekcioglu </h1>
+<h1 align="center">Hi , I am Naim Gedikli </h1>
 <h3 align="center">FRONTEND DEVELOPER </h3>
 <p align="center">
 
@@ -57,7 +57,7 @@
 
 
 -----
-Credits: [MusaEkmekcioglu](https://github.com/MusaEkmekcioglu)
+Credits: [NmGDKL](https://github.com/NmGDKL)
 
 
 

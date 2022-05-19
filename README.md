@@ -14,6 +14,34 @@
   <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
 
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NmGDKL&label=Profile%20views&color=0e75b6&style=flat" alt="NmGDKL" /> </p>
+
+<p>
+  
+ 
+<a align="right" href="https://github.com/dataonatangent">
+  
+  <img  height="270px" alt="guy" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
+
+</p>
+
+
+
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+
+
+
+<a href="#">
+    <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" title="day++" width="400px" align="right" alt="Routine">
+</a>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/naim-gedikli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naim gedikli" height="30" width="40" /></a>
+</p>
+<br><br>
+
  
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***

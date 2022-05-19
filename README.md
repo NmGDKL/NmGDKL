@@ -19,12 +19,7 @@
 <br><br><br><br><br>
 
 
- <h3 align="center">🎮 Problem solving</h3>
-
-<p align="center">
-  <img src="[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={NmGDKL})]">&nbsp
-</p>
+ 
 
 
 

@@ -45,14 +45,16 @@
 
     
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"> </code>
+  
+  <code> <img height="50" src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo-500x313.png"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
+
 
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
 
-  <code> <img height="50" src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo-500x313.png"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
-
+  
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>

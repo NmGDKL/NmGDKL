@@ -13,13 +13,15 @@
 
 <hr>
 <h1 align="center">Hi 👋, I'm Naim Gedikli</h1>
-<h3 align="center">🔭 I’m currently working on Full Stack Development || HTML/CSS | Javascript | ReactJS | Python | SQL | Django ||</h3>>
+<h3 align="center">🔭 I’m currently working on Full Stack Development || HTML/CSS | Javascript | ReactJS | Python | SQL | Django ||</h3>
 
 
 
 
 
  
+
+
 
 
 

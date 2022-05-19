@@ -1,7 +1,3 @@
-
-
-
-
 <h1 align="center">Hi 👋, I'm Naim Gedikli</h1>
 <h3 align="center">🔭 I’m currently working on Full Stack Development || HTML/CSS | Javascript | ReactJS | Python | SQL | Django ||</h3>
 
@@ -13,7 +9,7 @@
 
 <a align="right" href="https://github.com/dataonatangent">
   
-  <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
+  <img  height="270px" alt="guy" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
 
 </p>
 

@@ -26,10 +26,6 @@
 
 
 
-
-✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
-
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -22,7 +22,7 @@
  <h3 align="center">🎮 Problem solving</h3>
 
 <p align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chihiro888">&nbsp
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=NmGDKL">&nbsp
 </p>
 
 

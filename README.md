@@ -12,9 +12,8 @@
 
 
 <hr>
-<h1 align="center">Hi , I am Naim Gedikli </h1>
-<h3 align="center">FRONTEND DEVELOPER </h3>
-<p align="center">
+<h1 align="center">Hi 👋, I'm Naim Gedikli</h1>
+<h3 align="center">🔭 I’m currently working on Full Stack Development || HTML/CSS | Javascript | ReactJS | Python | SQL | Django ||</h3>>
 
 
 

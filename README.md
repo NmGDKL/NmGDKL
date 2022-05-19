@@ -65,7 +65,7 @@
   <a href="#">
     <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" title="day++" width="400px" align="right" alt="Routine">
 </a>
-
+<br><br><br><br>
   
   <hr>
   <p align="center">

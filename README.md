@@ -1,3 +1,12 @@
+
+
+<h1 align="center">Hi 👋, I'm Naim Gedikli</h1>
+<h3 align="center">FRONTEND DEVELOPER </h3>
+<p align="center">
+<h3 align="center">🔭 I’m currently working on Full Stack Development || HTML/CSS | Javascript | ReactJS | Python | SQL | Django ||</h3>
+
+<hr>
+
 <p>
 
 <a align= "center" href="https://github.com/dataonatangent">
@@ -5,31 +14,6 @@
   <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
 
 </p>
-
-
-
-
-
-
-<hr>
-<h1 align="center">Hi , I am Musa Ekmekcioglu </h1>
-<h3 align="center">FRONTEND DEVELOPER </h3>
-<p align="center">
-
-
-
-
-
- 
-
-
-
-
-
-
-
-<h1 align="center">Hi 👋, I'm Naim Gedikli</h1>
-<h3 align="center">🔭 I’m currently working on Full Stack Development || HTML/CSS | Javascript | ReactJS | Python | SQL | Django ||</h3>
  
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***

@@ -27,7 +27,9 @@
 
 
 
-
+<a href="#">
+    <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" title="day++" width="400px" align="right" alt="Routine">
+</a>
 
 
 
@@ -43,9 +45,7 @@
 <p align="left">
   <br>
   
-  <a href="#">
-    <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" title="day++" width="400px" align="right" alt="Routine">
-</a>
+  
  
 
   <code> <img height="30" src="https://www.vectorlogo.zone/logos/python/python-official.svg"> </code>

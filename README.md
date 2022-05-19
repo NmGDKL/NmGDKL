@@ -57,15 +57,17 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"> </code>
   <code> <img height="65" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg"> </code>
   <code> <img height="50" src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo-500x313.png"> </code>
+  
+  <a href="#">
+    <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" title="day++" width="400px" align="right" alt="Routine">
+</a>
+
 
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
   
-  <a href="#">
-    <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" title="day++" width="400px" align="right" alt="Routine">
-</a>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  
   
   <hr>
   <p align="center">

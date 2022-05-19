@@ -33,10 +33,12 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/naim-gedikli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naim gedikli" height="30" width="40" /></a>
 </p>
+<br><br><br>
  
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
+  <br><br>
   
   
  

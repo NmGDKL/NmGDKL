@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Naim Gedikli</h1>
-<h3 align="center">FULLSTACK DEVELOPER </h3>
+<h3 align="center">FULL STACK DEVELOPMENT </h3>
 <p align="center">
 <h3 align="center">🔭 I’m currently working on Full Stack Development || HTML/CSS | Javascript | ReactJS | Python | SQL | Django ||</h3>
 

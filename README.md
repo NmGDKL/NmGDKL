@@ -25,9 +25,6 @@
 
 
 
-<a href="#">
-    <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" title="day++" width="400px" align="right" alt="Routine">
-</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

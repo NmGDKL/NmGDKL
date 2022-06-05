@@ -65,7 +65,7 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
   
    <p align="center">
- <img  alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ <a alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 
   <hr>
  

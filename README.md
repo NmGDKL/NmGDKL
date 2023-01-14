@@ -65,14 +65,7 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
   
    <p align="center">
- <a alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 
-  <hr>
- 
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NmGDKL&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=NmGDKL&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
 
 
 
